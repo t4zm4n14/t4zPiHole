@@ -20,3 +20,4 @@
 ||brawlstarsgame.com^
 ||game.brawlstarsgame.com^
 ||game-assets.brawlstarsgame.com^
+||supercell.com^
