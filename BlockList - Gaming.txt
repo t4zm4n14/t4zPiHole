@@ -1,19 +1,19 @@
 # My manual PiHole blocklist to block certain games which I could not find online.
 
 # Browsergames
-0.0.0.0 addictinggames.com
-0.0.0.0 silvergames.com
-0.0.0.0 oakdalegames.weebly.com
-0.0.0.0 stickgames.com
-0.0.0.0 learntofly3unblockedd.com
-0.0.0.0 kongregate.com
-0.0.0.0 papalouie.com
-0.0.0.0 eunblocked.com
-0.0.0.0 maxgames.com
-0.0.0.0 stickpage.com
-0.0.0.0 armorgames.com
-0.0.0.0 unblockedgamesite.com
+addictinggames.com
+silvergames.com
+oakdalegames.weebly.com
+stickgames.com
+learntofly3unblockedd.com
+kongregate.com
+papalouie.com
+eunblocked.com
+maxgames.com
+stickpage.com
+armorgames.com
+unblockedgamesite.com
 
 # Brawlstars - App based game
-0.0.0.0 game.brawlstarsgame.com
-0.0.0.0 game-assets.brawlstarsgame.com
+game.brawlstarsgame.com
+game-assets.brawlstarsgame.com
