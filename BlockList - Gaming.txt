@@ -18,3 +18,7 @@ unblockedgamesite.com
 brawlstarsgame.com
 game.brawlstarsgame.com
 game-assets.brawlstarsgame.com
+brawlstarsgame.inbox.supercell.com
+id.supercell.com
+cdn.id.supercell.com
+inventory.mtech.supercell.com
