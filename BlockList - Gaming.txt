@@ -15,5 +15,6 @@ armorgames.com
 unblockedgamesite.com
 
 # Brawlstars - App based game
+brawlstarsgame.com
 game.brawlstarsgame.com
 game-assets.brawlstarsgame.com
