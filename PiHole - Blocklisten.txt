@@ -1,0 +1,96 @@
+  [i] Building tree...
+  [✗] Unable to build gravity tree in /etc/pihole/gravity.db_temp
+  Error: stepping, database or disk is full (13)
+   [✗] Unable to create database. Please contact support.
+   
+Alle Blocklisten entfernen
+Terminal: pihole -g (löscht dann erst alte DB und gibt Speicher frei)
+alle listen gleichzeitig Leerzeichen separiert rein
+Gravity Update machen
+
+https://raw.githubusercontent.com/t4zm4n14/t4zPiHole/main/BlockList%20-%20Gaming%20V2.txt 
+https://raw.githubusercontent.com/t4zm4n14/t4zPiHole/main/BlockList%20-%20Gaming.txt 
+https://raw.githubusercontent.com/Mafraysse/AdGuard_GameList-Filter/main/AdGuard_games_list.txt 
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt 
+https://raw.githubusercontent.com/RPiList/specials/master/Internet%20Services/Epic-Games 
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/child-protection 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Corona-Blocklist 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting1 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting2 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting3 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting4 
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt 
+https://v.firebog.net/hosts/AdguardDNS.txt 
+https://adaway.org/hosts.txt 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious 
+https://raw.githubusercontent.com/Monstanner/DuckDuckGo-Fakeshops-Blocklist/main/Blockliste 
+https://raw.github.com/notracking/hosts-blocklists/master/hostnames.txt 
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt 
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt 
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt 
+https://v.firebog.net/hosts/Easyprivacy.txt 
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt 
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt 
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt 
+Games_t4zm4n1a_v2 
+Games_t4zm4n14 
+Games_AdGuard 
+Games_Console List 
+Games_Epic 
+Steven_Black 
+Streaming 
+Phishing_Angriffe 
+Spam_Mails 
+Win10_Telemetry 
+Easy_List 
+Samsung 
+Pornblock1 
+Pornblock2 
+Pornblock3 
+Pornblock4 
+Pornblock5 
+Pornblock6 
+Proxies 
+Crypto 
+Gambling 
+Child_Protection 
+Fake_Science 
+Corona_Blocklist 
+Malware 
+MS_Office_Telemetry 
+DomainSquatting_1 
+DomainSquatting_2 
+DomainSquatting_3 
+DomainSquatting_4 
+Adservers 
+Adgard 
+Adaway 
+Not_Serious 
+Fake_Shops 
+Tracking 
+SmartTV 
+Android_Tracking 
+Spy 
+Easy_Privacy 
+Simple_Tracking 
+No_Track 
+AdsAndTrackingExtended 
