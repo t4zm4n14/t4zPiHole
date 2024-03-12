@@ -1,0 +1,12 @@
+# My manual PiHole blocklist to block certain streaming (web)apps.
+
+# Streaming Apps & Webservices
+||youtube.com^
+||youtube.de^
+||netflix.com^
+||netflix.de^
+||disneyplus.com^
+||disneyplus.de^
+||disney-plus.net^
+||atv-ps-eu.amazon.com^
+||atv-ps-eu.amazon.de^
