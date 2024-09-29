@@ -3,6 +3,7 @@
 # Streaming Apps & Webservices
 ||youtube.com^
 ||youtube.de^
+||googlevideo.com^
 ||netflix.com^
 ||netflix.de^
 ||disneyplus.com^
