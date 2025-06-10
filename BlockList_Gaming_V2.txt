@@ -1,37 +1,31 @@
 # My manual PiHole blocklist to block certain games which I could not find online.
-
 # Browsergames
-
-(^|\.)addictinggames\.com$
-(^|\.)silvergames\.com$
-(^|\.)oakdalegames\.weebly\.com$
-(^|\.)stickgames\.com$
-(^|\.)learntofly3unblockedd\.com$
-(^|\.)kongregate\.com$
-(^|\.)papalouie\.com$
-(^|\.)eunblocked\.com$
-(^|\.)maxgames\.com$
-(^|\.)stickpage\.com$
-(^|\.)armorgames\.com$
-(^|\.)unblockedgamesite\.com$
-
+||addictinggames.com^
+||silvergames.com^
+||oakdalegames.weebly.com^
+||stickgames.com^
+||learntofly3unblockedd.com^
+||kongregate.com^
+||papalouie.com^
+||eunblocked.com^
+||maxgames.com^
+||stickpage.com^
+||armorgames.com^
+||unblockedgamesite.com^
 # Brawlstars - App based game
-
-(^|\.)brawlstarsgame\.com$
-(^|\.)supercell\.com$
-
+||brawlstarsgame.com^
+||supercell.com^
 # Roblox
-
-(^|\.)roblox\.com$
-(^|\.)rbxcdn\.com$
-(^|\.)rbxinfra\.net$
-(^|\.)rbxtrk\.com$
-
+||roblox.com^
+||rbxcdn.com^
+||rbxinfra.net^
+||rbxtrk.com^
 # Added from Query Log
-(^|\.)mtgglobals\.com$
-(^|\.)anythinktech\.com$
-(^|\.)bytegle\.tech$
-(^|\.)play(|.+)\.googleapis\.com$
-(^|\.)unity3d\.com$
-(^|\.)helpshift\.com$
-(^|\.)hicloud\.com$
+||mtgglobals.com^
+||anythinktech.com^
+||bytegle.tech^
+||play.googleapis.com^
+||play-fe.googleapis.com^
+||unity3d.com^
+||helpshift.com^
+||hicloud.com^
